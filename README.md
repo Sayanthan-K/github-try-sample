@@ -1,2 +1,2 @@
 # github-try-sample
-I just try to push first time in git-hub
+I just try to push the first time in git-hub
