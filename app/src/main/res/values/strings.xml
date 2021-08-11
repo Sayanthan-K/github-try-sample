@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">intentsProj</string>
+    <string name="tv_num1">Number1</string>
+    <string name="tv_num2">Number2</string>
+    <string name="et_n2" />
+    <string name="et_n1" />
+    <string name="btn">ok</string>
+    <string name="btn_add">+</string>
+    <string name="btn_sub">_</string>
+    <string name="btn_muti">*</string>
+    <string name="btn_divied">/</string>
+    <string name="display" />
+    <string name="ok">ClickOk</string>
+</resources>
